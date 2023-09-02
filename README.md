@@ -1,5 +1,13 @@
-### Hi there 👋
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issamansur&show_icons=true&theme=radical" alt="Статистика использования языков программирования" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=issamansur&repo=vkpymusic&show_icons=true&theme=radical" alt="Статистика использования репозитория vkpymusic" />
+    </td>
+  </tr>
+</table>
 <!--
 **issamansur/issamansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
