@@ -9,9 +9,9 @@
   </tr>
 </table>
 
-- U - UNTALENTED
-- N - NEGATIVE 
--  I - INSENSITIVE 
-- Q - QUIET 
-- U - UNINTERESTING
-- E - EGOIST
+- <code>U</code>NTALENTED
+- <code>N</code>EGATIVE 
+- <code>I</code>NSENSITIVE 
+- <code>Q</code>UIET 
+- <code>U</code>NINTERESTING
+- <code>E</code>GOIST
