@@ -9,13 +9,9 @@
   </tr>
 </table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **Discord Bot with VKpyMusic integration**
-- 🌱 I’m currently learning **ASP .NET, React, Flutter** 
-- 👯 I’m looking to collaborate on **any interesting projects/ideas**
-- 🤔 I’m looking for help with **my time**
-- 💬 Ask me about **anything, but I can decline)**
-- 📫 How to reach me: **it's impossible**
-- 😄 Pronouns: **really?**
-- ⚡ Fun fact: **really...**
+U - UNTALENTED
+N - NEGATIVE 
+I - INSENSITIVE 
+Q - QUIET 
+U - UNINTERESTING
+E - EGOIST
