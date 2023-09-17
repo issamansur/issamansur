@@ -9,9 +9,9 @@
   </tr>
 </table>
 
-- <code>U</code>NTALENTED
-- <code>N</code>EGATIVE 
-- <code>I</code>NSENSITIVE 
-- <code>Q</code>UIET 
-- <code>U</code>NINTERESTING
-- <code>E</code>GOIST
+- <code>U</code>ntalented
+- <code>N</code>egative
+- <code>I</code>nsensitive 
+- <code>Q</code>uiet
+- <code>U</code>ninteresting
+- <code>E</code>goist
