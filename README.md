@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>
-      - <code>U</code>ntalented
+- <code>U</code>ntalented
 - <code>N</code>egative
 - <code>I</code>nsensitive 
 - <code>Q</code>uiet
