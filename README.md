@@ -9,7 +9,12 @@
   </tr>
   <tr>
     <td>
-      
+      - <code>U</code>ntalented
+- <code>N</code>egative
+- <code>I</code>nsensitive 
+- <code>Q</code>uiet
+- <code>U</code>ninteresting
+- <code>E</code>goist
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=issamansur&show_icons=true&theme=radical" alt="Личная статистика"/>
@@ -17,9 +22,4 @@
   </tr
 </table>
 
-- <code>U</code>ntalented
-- <code>N</code>egative
-- <code>I</code>nsensitive 
-- <code>Q</code>uiet
-- <code>U</code>ninteresting
-- <code>E</code>goist
+
