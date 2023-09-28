@@ -1,27 +1,18 @@
 ###
     
-<div class="main">
-  <div>
+<div>
     <img align="left" height="150" src="https://avatars.mds.yandex.net/i?id=c3ea6fe047b117685fd4f9d8cedd80dc-5434185-images-thumbs&n=13"  />
-  </div>
+</div>
 
-  <div>
-    <code> U </code>ntalented <br>
-    <code> N </code>egative <br>
-    <code> I </code>nsensitive <br>
-    <code> Q </code>uiet <br>
-    <code> U </code>ninteresting <br>
-    <code> E </code>goist
-  </div>
-  
-  <div align="right>
+<div align="right>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  </div>
-  
-  <div align="right">
+</div>
+
+<div align="right">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -31,8 +22,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  </div>
 </div>
+
+<div>
+    <code> U </code>ntalented <br>
+    <code> N </code>egative <br>
+    <code> I </code>nsensitive <br>
+    <code> Q </code>uiet <br>
+    <code> U </code>ninteresting <br>
+    <code> E </code>goist
+</div>
+  
+
 
 ###
 
