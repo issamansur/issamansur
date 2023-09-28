@@ -1,5 +1,6 @@
 ###
-<div style="display: flex; align-items: left; flex-direction: row; justify-content: flex-start; flex: nowrap ">
+    
+<div class="main">
   <div>
     <img align="left" height="150" src="https://avatars.mds.yandex.net/i?id=c3ea6fe047b117685fd4f9d8cedd80dc-5434185-images-thumbs&n=13"  />
   </div>
@@ -13,7 +14,7 @@
     <code> E </code>goist
   </div>
   
-  <div>
+  <div align="right>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
     <img width="12" />
