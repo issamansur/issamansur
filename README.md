@@ -1,5 +1,12 @@
 <div>
     <img align="left" height="150" src="https://avatars.mds.yandex.net/i?id=c3ea6fe047b117685fd4f9d8cedd80dc-5434185-images-thumbs&n=13"  />
+    <b>
+    <code> U </code>ntalented <br>
+    <code> N </code>egative <br>
+    <code> I </code>nsensitive <br>
+    <code> Q </code>uiet <br>
+    <code> U </code>ninteresting <br>
+    <code> E </code>goist
 </div>
 
 ###
@@ -56,13 +63,13 @@
   </a>
 -->
   <a href="https://t.me/issamansur" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://dev.to/edexade" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
   </a>
 </div>
 
@@ -76,15 +83,4 @@
 <!--
   <img src="https://github-readme-stats.vercel.app/api?username=issamansur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="140" alt="stats graph"  />
 -->
-</div>
-
-###
-
-<div>
-    <code> U </code>ntalented <br>
-    <code> N </code>egative <br>
-    <code> I </code>nsensitive <br>
-    <code> Q </code>uiet <br>
-    <code> U </code>ninteresting <br>
-    <code> E </code>goist
 </div>
