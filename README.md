@@ -5,7 +5,7 @@
     <code> N </code>egative <br>
     <code> I </code>nsensitive <br>
     <code> Q </code>uiet <br>
-    <code> U </code>ninteresting <br>
+    <code> U </code>nstable <br>
     <code> E </code>goist
 </div>
 
