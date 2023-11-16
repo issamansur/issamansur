@@ -78,3 +78,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=issamansur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="140" alt="stats graph"  />
 -->
 </div>
+
+###
+
+- Tell you you're the greatest... But once you turn, they hate us... [Imagine Dragons - "Enemy"]
+- Betrayal can either break you or turn you into something more. [Silco - "Arcane"]
+- I mean, I'm... I'm not the most charming guy in the world, so I've been told, but... nobody? [Hancock - "Hancock"]
+- Do you know what they call a hero who acts alone and does not listen to anyone? Villain. [Number Five - "Academia umbrella"]
+- The phoenix burns and is reborn, becomes more perfect, but one day... [Me]
