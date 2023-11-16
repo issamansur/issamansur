@@ -81,6 +81,7 @@
 
 ###
 
+- If the game doesn't capture you, then it becomes boring. [Ayanokoji - "Classroom of the elite"]
 - Tell you you're the greatest... But once you turn, they hate us... [Imagine Dragons - "Enemy"]
 - Betrayal can either break you or turn you into something more. [Silco - "Arcane"]
 - I mean, I'm... I'm not the most charming guy in the world, so I've been told, but... nobody? [Hancock - "Hancock"]
