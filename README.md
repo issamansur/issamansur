@@ -86,4 +86,5 @@
 - Betrayal can either break you or turn you into something more. [Silco - "Arcane"]
 - I mean, I'm... I'm not the most charming guy in the world, so I've been told, but... nobody? [Hancock - "Hancock"]
 - Do you know what they call a hero who acts alone and does not listen to anyone? Villain. [Number Five - "Academia umbrella"]
+- Сold and clean as the first snow... [Lucy Gray - "Hunger Games: Ballad of songbirds and snakes"]
 - The phoenix burns and is reborn, becomes more perfect, but one day... [Me]
