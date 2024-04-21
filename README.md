@@ -95,3 +95,4 @@
 - The phoenix burns and is reborn, becomes more perfect, but one day... [Me]
 - You always expect the worst from people, because that's all you see in yourself. [Girlfriend of Dr. Audley Lim - "Good doctor"]
 - Whenever people want you to do something they think is wrong they say it's "reality". [Dr. Shaun Murphy - "Good doctor"]
+- Не стоит понимать доброту за слабость, грубость за силу, а подлость за умение жить. [Johnny Silverhand - "Cyberpunk"]
