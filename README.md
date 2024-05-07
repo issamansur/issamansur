@@ -1,6 +1,7 @@
+<hr>
+
 <div>
-    <img align="left" height="150" src="https://avatars.mds.yandex.net/i?id=c3ea6fe047b117685fd4f9d8cedd80dc-5434185-images-thumbs&n=13"  />
-    <b>
+    <img align="left" width="150px" margin-right="100px" src="https://github.com/issamansur/issamansur/assets/77580844/b7a78a6f-0ac5-469f-8bd5-c0ef51fd85f7"  />
     <code> U </code>ntalented <br>
     <code> N </code>egative <br>
     <code> I </code>nsensitive <br>
@@ -47,6 +48,10 @@
 
 ###
 
+<hr>
+
+###
+
 <div align="left">
 <!--  
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -83,6 +88,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=issamansur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="140" alt="stats graph"  />
 -->
 </div>
+
+###
+
+<hr>
 
 ###
 
