@@ -1,7 +1,7 @@
 <hr>
 
 <div>
-    <img align="left" width="150px" htight="150px" src="https://github.com/issamansur/issamansur/assets/77580844/b7a78a6f-0ac5-469f-8bd5-c0ef51fd85f7"  />
+    <img align="left" width="150px" height="150px" src="https://github.com/issamansur/issamansur/assets/77580844/b7a78a6f-0ac5-469f-8bd5-c0ef51fd85f7"  />
     <code> U </code>ntalented <br>
     <code> N </code>egative <br>
     <code> I </code>nsensitive <br>
