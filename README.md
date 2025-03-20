@@ -105,3 +105,7 @@
 - You always expect the worst from people, because that's all you see in yourself. [Girlfriend of Dr. Audley Lim - "Good doctor"]
 - Whenever people want you to do something they think is wrong they say it's "reality". [Dr. Shaun Murphy - "Good doctor"]
 - Не стоит понимать доброту за слабость, грубость за силу, а подлость за умение жить. [Johnny Silverhand - "Cyberpunk"]
+- No rider alive truly believes they've reached the limitations of their power. The dead ones may feel differently. [Major Afendra's Guide to the Riders Quadrant (Unauthorized Edition) - "Iron Flame" Ch. 49]
+- Which would be worse: to live as a monster, or to die as a good man? [U.S. Marshal Edward "Teddy" Daniels - "Shutter island"]
+- Adapt or die. [Billy Beane - "Moneyball"]
+- People eventually look for the Devil, when they are turned away by their God. [Mr. Horyang - "Tower of God" S. 2 Ep. 19]
